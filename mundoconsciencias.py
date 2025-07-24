@@ -829,7 +829,6 @@ class MockDatabase:
         }
 
 # Código para testar a aplicação
-# Código para testar a aplicação
 if __name__ == "__main__":
     from PySide6.QtWidgets import QApplication
     from PySide6.QtGui import QPalette, QColor
