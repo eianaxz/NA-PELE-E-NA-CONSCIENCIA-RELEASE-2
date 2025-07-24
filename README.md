@@ -55,20 +55,48 @@ Esta versão traz uma interface modernizada, novos modos de jogo e um sistema ma
 
 
 ---
+## ⚠️ Aviso sobre Funcionalidades em Desenvolvimento
+Apesar dos esforços intensos para implementar todas as funcionalidades propostas nesta segunda release, algumas partes do sistema ainda não foram finalizadas ou integradas completamente, como:
 
+Integração completa do CRUD de usuários e histórias.
+
+Funcionamento pleno do Modo de Decisão com Tempo (Modo 2) para todas as histórias.
+
+Ativação total da Aba Comunidade com exibição de perfis reais.
+
+Essa limitação ocorreu devido a problemas técnicos enfrentados durante o processo de desenvolvimento, como falhas no editor de código (VSCode) e perda total da maiorias dos arquivos do sistema, que dificultaram a execução e depuração do sistema. 
+
+Mesmo assim, grande parte da estrutura do sistema foi desenvolvida com responsabilidade e comprometimento, e as funcionalidades principais — como cadastro e login com autenticação, interface gráfica modernizada, navegação pelo módulo de consciência e sistema de progresso — estão devidamente implementadas e funcionando.
+
+🛠️ O projeto continua em desenvolvimento, e o objetivo é que todas as funcionalidades sejam entregues e refinadas em versões futuras, mantendo a proposta pedagógica e ética que originou o sistema.
 
 ---
 
 ## 🖥️ Instalação e Execução
 
-### 1. Clone o repositório
+ Certifique-se de ter o Python 3.10+ instalado Baixe em: https://www.python.org/downloads/
 
-git clone https://github.com/seu-usuario/NaPeleEnaConsciencia.git
-cd NaPeleEnaConsciencia
+Instale as bibliotecas externas necessárias: pip install python-dotenv e pip install pyside6
 
-Instale as bibliotecas necessárias: 
-Biblioteca PySide6 - pip install pyside6 
-Biblioteca dotenv - pip install dotenv 
+📥 Como clonar o repositório em qualquer sistema operacional Passos para clonar o projeto no seu computador: Abra o terminal ou prompt de comando
+
+Windows: use o Prompt de Comando (CMD), PowerShell ou o terminal do VS Code.
+
+Linux/macOS: use o Terminal padrão.
+
+Navegue até a pasta onde deseja salvar o projeto Use o comando cd para entrar na pasta desejada. Exemplos:
+
+Windows: cd C:\Users\SeuNomeDeUsuário\Documentos
+
+Linux/macOS: cd /home/seuusuario/Documentos Substitua SeuNomeDeUsuário ou seuusuario pelo seu nome real no sistema.
+
+Clone o repositório usando o comando:
+
+git clone https://github.com/eianaxz/NA-PELE-E-NA-CONSCI-NCIA---PROJETO.git Este comando criará uma nova pasta chamada NA-PELE-E-NA-CONSCI-NCIA---PROJETO dentro da pasta onde você está, contendo todos os arquivos do projeto.
+
+Entre na pasta do projeto clonado cd NA-PELE-E-NA-CONSCI-NCIA---RELEASE 2
+
+Para iniciar o projeto, execute o arquivo principal no terminal com: python cadastro.py
 
 ---
 
