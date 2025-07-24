@@ -1,4 +1,4 @@
-# Adicione este método à classe MinhaJanela
+
 import sys
 import re
 import os
@@ -14,7 +14,7 @@ from PySide6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
                                QCheckBox, QMessageBox, QSpacerItem, QSizePolicy, QDialog)
 from PySide6.QtGui import QPixmap, QPainter, QIcon, QFont, QLinearGradient, QColor
 from PySide6.QtCore import QFile, Qt, QSize, QTimer
-# Na seção de imports, adicione:
+
 from loginapp import LoginScreen
 from database import Database
 # Carregar variáveis de ambiente
