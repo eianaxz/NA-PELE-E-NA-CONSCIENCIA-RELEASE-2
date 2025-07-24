@@ -66,7 +66,7 @@ Ativação total da Aba Comunidade com exibição de perfis reais.
 
 Essa limitação ocorreu devido a problemas técnicos enfrentados durante o processo de desenvolvimento, como falhas no editor de código (VSCode) e perda total da maiorias dos arquivos do sistema, que dificultaram a execução e depuração do sistema. 
 
-Mesmo assim, grande parte da estrutura do sistema foi desenvolvida com responsabilidade e comprometimento, e as funcionalidades principais — como cadastro e login com autenticação, interface gráfica modernizada, navegação pelo módulo de consciência e sistema de progresso — estão devidamente implementadas e funcionando.
+Mesmo assim, grande parte da estrutura do sistema foi desenvolvida com responsabilidade e comprometimento, e as funcionalidades principais como cadastro e login com autenticação, interface gráfica modernizada, navegação pelo módulo de consciência e sistema de progresso estão devidamente implementadas e funcionando.
 
 🛠️ O projeto continua em desenvolvimento, e o objetivo é que todas as funcionalidades sejam entregues e refinadas em versões futuras, mantendo a proposta pedagógica e ética que originou o sistema.
 
@@ -92,7 +92,7 @@ Linux/macOS: cd /home/seuusuario/Documentos Substitua SeuNomeDeUsuário ou seuus
 
 Clone o repositório usando o comando:
 
-git clone https://github.com/eianaxz/NA-PELE-E-NA-CONSCI-NCIA---PROJETO.git Este comando criará uma nova pasta chamada NA-PELE-E-NA-CONSCI-NCIA---PROJETO dentro da pasta onde você está, contendo todos os arquivos do projeto.
+git clone https://github.com/eianaxz/NA-PELE-E-NA-CONSCIENCIA-RELEASE-2.git Este comando criará uma nova pasta chamada NA-PELE-E-NA-CONSCI-NCIA---PROJETO dentro da pasta onde você está, contendo todos os arquivos do projeto.
 
 Entre na pasta do projeto clonado cd NA-PELE-E-NA-CONSCI-NCIA---RELEASE 2
 
